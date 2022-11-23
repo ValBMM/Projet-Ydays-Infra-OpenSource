@@ -31,4 +31,5 @@ Solution souhaités :
 - Déploiement du serveur DHCP
 - Déploiement du serveur web
 - Déploiement du proxy
+- Déploiement du firewall
 
