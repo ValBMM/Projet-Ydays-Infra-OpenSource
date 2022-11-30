@@ -1,11 +1,10 @@
-
 # Projet Ydays : Infra OpenSource
 
- L'objectif de ce projet est de monter une infrastructure complète OpenSource fonctionnnel et stable. Une fois déployé, l'architecture restera en constante évolution, l'objectif est l'agrandir au fur et à mesure.
+ L'objectif de ce projet est de monter une infrastructure complète OpenSource fonctionnnel et stable. Une fois déployé, l'architecture restera en constante évolution, l'objectif est l'agrandir au fur et à mesure.**
 
-# Jour 1
+## Jour 1
 
-## Mise au Point
+### Mise au Point
 
 Le projet a été défini, il faut maintenant définir les limites à X temps du projet ainsi que les solutions utilisés.
 
@@ -32,7 +31,7 @@ Solution souhaités :
 - phpipam (pour visualiser/administrer le réseau)
 -
 
-## Déploiement
+### Déploiement
 
 - Déploiement du serveur LDAP
 - Déploiement du serveur DNS
