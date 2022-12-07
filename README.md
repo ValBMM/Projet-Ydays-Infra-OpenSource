@@ -38,3 +38,4 @@ Solution souhaités :
 ## Suite du déploiement de l'infra avec quelques changements
 
 - Changement de PfSense pour OPNSense (PfSense n'est pas opensource)
+- Développement de l'annuaire LDAP
