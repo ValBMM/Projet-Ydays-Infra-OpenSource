@@ -12,7 +12,7 @@ Contenu de l'infra en février :
 - Serveur DHCP
 - Serveur DNS
 - Postes (Déployés en docker ?)
-- Firewall (OPNSense)
+- Firewall (Pfsense)
 - Serveur Web (apache2)
 - Reverse Proxy (HAProxy)
 
@@ -33,3 +33,8 @@ Solution souhaités :
 - Déploiement du serveur web
 - Déploiement du proxy
 
+# Jour 2
+
+## Suite du déploiement de l'infra avec quelques changements
+
+- Changement de PfSense pour OPNSense (PfSense n'est pas opensource)
