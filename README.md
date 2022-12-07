@@ -11,7 +11,7 @@ Contenu de l'infra en février :
 - Annuaire (LDAP)
 - Serveur DHCP
 - Serveur DNS
-- Postes (Déployés en docker ?)
+- Poste test
 - Firewall (Pfsense)
 - Serveur Web (apache2)
 - Reverse Proxy (HAProxy)
@@ -23,6 +23,7 @@ Solution souhaités :
 - Open Policy Agent
 - apache2
 - (Kubernetes ?)
+- Postes (Déployés en docker ou kub ?)
 
 
 ## Déploiement
@@ -39,3 +40,4 @@ Solution souhaités :
 
 - Changement de PfSense pour OPNSense (PfSense n'est pas opensource)
 - Développement de l'annuaire LDAP
+- Déploiement du pare-feu et configuration du routage
