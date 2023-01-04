@@ -47,7 +47,8 @@ Solution souhaités :
 
 ## Ajustements :
 
-- OPNSense n'étant pas assez stable (perte de l'interface web à chaque changement de conf), on est repassé sur PFSense,
+- OPNSense n'étant pas assez stable (perte de l'interface web à chaque changement de conf), on est repassé sur PFSense
+- Changements temporaire (pour résoudre les problèmes ?) : Passages des adresses identiques avec sous masques différents à des adresses différentes avec un masque complet 
 
 ## Problème rencontrés :
 
